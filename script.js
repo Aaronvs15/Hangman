@@ -32,16 +32,12 @@ let wrongGuesses = [];      // Liste der falschen Buchstaben
 let lives = 6;              // Anzahl der Leben
 let gameRunning = false;    // Status des Spiels
 
-let ichBinSauer = true;   //Bedeutung das ich wirklich Sauer bin...aber nicht auf eren!
-
 // Begrüßung und Anweisungen
 console.clear();
 console.log("Willkommen beim Hangman-Spiel!");
 console.log("Spieler 1: Gib ein Wort ein, das erraten werden soll.");
 console.log("Spieler 2: Drücke Buchstaben auf deiner Tastatur, um zu raten.");
 console.log("(Das Spiel startet automatisch, wenn Spieler 1 ein Wort eingegeben hat.)");
-console.log("Hallo eren");
-/* eine neue zeile */
 
 // Funktion, um das Spiel zu starten
 function startGame() {
