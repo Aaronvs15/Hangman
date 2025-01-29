@@ -32,6 +32,8 @@ let wrongGuesses = [];      // Liste der falschen Buchstaben
 let lives = 6;              // Anzahl der Leben
 let gameRunning = false;    // Status des Spiels
 
+let ichBinSauer = true;   //Bedeutung das ich wirklich Sauer bin...aber nicht auf eren!
+
 // Begrüßung und Anweisungen
 console.clear();
 console.log("Willkommen beim Hangman-Spiel!");
