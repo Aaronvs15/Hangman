@@ -41,6 +41,8 @@ console.log("Spieler 1: Gib ein Wort ein, das erraten werden soll.");
 console.log("Spieler 2: Drücke Buchstaben auf deiner Tastatur, um zu raten.");
 console.log("(Das Spiel startet automatisch, wenn Spieler 1 ein Wort eingegeben hat.)");
 console.log("Hallo eren");
+/* eine neue zeile */
+
 // Funktion, um das Spiel zu starten
 function startGame() {
   let isValidWord = false;
