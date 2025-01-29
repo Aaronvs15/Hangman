@@ -37,3 +37,6 @@ Unser Konsolen-Hangman-Spiel mag auf den ersten Blick simpel wirken, aber es ste
 Ich hoffe, euch hat die Vorstellung unseres Projekts gefallen – habt ihr Fragen oder Ideen, wie wir das Spiel noch weiter verbessern könnten? Lasst uns gemeinsam überlegen!
 
 Hallo
+
+
+hallo zurück | chris
