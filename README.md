@@ -34,18 +34,16 @@ Unser Hangman-Spiel läuft komplett in der Konsole des Browsers – keine grafis
 **Fazit:**  
 Unser Konsolen-Hangman-Spiel mag auf den ersten Blick simpel wirken, aber es steckt voller wertvoller Lektionen über JavaScript, Programmierlogik und die Freude am Erschaffen. Es zeigt, dass man auch mit wenig Erfahrung schon coole Dinge programmieren kann.
 
-Ich hoffe, euch hat die Vorstellung unseres Projekts gefallen – habt ihr Fragen oder Ideen, wie wir das Spiel noch weiter verbessern könnten? Lasst uns gemeinsam überlegen!
-
-Hallo
-
-hallo eren
-
-hallo ihr beiden
+Ich hoffe, euch hat die Vorstellung unseres Projekts gefallen – habt ihr Fragen oder Ideen, wie wir das Spiel noch weiter 
+hallo ihr beidenverbessern könnten? Lasst uns gemeinsam überlegen!
 
 
 
 
-Chris sein Arbeitsbereich
+
+
+
+
 
 
 
